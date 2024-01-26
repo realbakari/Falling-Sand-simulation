@@ -1,6 +1,6 @@
 # Falling Sand Simulation
 
-![Simulation Demo](https://editor.p5js.org/realbakari/sketches/PdcM4dnxz)
+[Simulation Demo](https://editor.p5js.org/realbakari/sketches/PdcM4dnxz)
 
 ## Overview
 
